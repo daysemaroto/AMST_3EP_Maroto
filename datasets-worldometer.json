@@ -1,0 +1,1091 @@
+[
+ {
+   "Country": {
+      "Region": "USA"
+   },
+   "Continent": "North America",
+   "Population": 331198130,
+   "TotalCases": 5032179,
+   "TotalDeaths": 162804,
+   "TotalRecovered": 2576668,
+   "ActiveCases": 2292707
+},
+ {
+   "Country": {
+      "Region": "Brazil"
+   },
+   "Continent": "South America",
+   "Population": 212710692,
+   "TotalCases": 2917562,
+   "TotalDeaths": 98644,
+   "TotalRecovered": 2047660,
+   "ActiveCases": 771258
+},
+ {
+   "Country": {
+      "Region": "India"
+   },
+   "Continent": "Asia",
+   "Population": 1381344997,
+   "TotalCases": 2025409,
+   "TotalDeaths": 41638,
+   "TotalRecovered": 1377384,
+   "ActiveCases": 606387
+},
+ {
+   "Country": {
+      "Region": "Russia"
+   },
+   "Continent": "Europe",
+   "Population": 145940924,
+   "TotalCases": 871894,
+   "TotalDeaths": 14606,
+   "TotalRecovered": 676357,
+   "ActiveCases": 180931
+},
+ {
+   "Country": {
+      "Region": "South Africa"
+   },
+   "Continent": "Africa",
+   "Population": 59381566,
+   "TotalCases": 538184,
+   "TotalDeaths": 9604,
+   "TotalRecovered": 387316,
+   "ActiveCases": 141264
+},
+ {
+   "Country": {
+      "Region": "Mexico"
+   },
+   "Continent": "North America",
+   "Population": 129066160,
+   "TotalCases": 462690,
+   "TotalDeaths": 50517,
+   "TotalRecovered": 308848,
+   "ActiveCases": 103325
+},
+ {
+   "Country": {
+      "Region": "Peru"
+   },
+   "Continent": "South America",
+   "Population": 33016319,
+   "TotalCases": 455409,
+   "TotalDeaths": 20424,
+   "TotalRecovered": 310337,
+   "ActiveCases": 124648
+},
+ {
+   "Country": {
+      "Region": "Chile"
+   },
+   "Continent": "South America",
+   "Population": 19132514,
+   "TotalCases": 366671,
+   "TotalDeaths": 9889,
+   "TotalRecovered": 340168,
+   "ActiveCases": 16614
+},
+ {
+   "Country": {
+      "Region": "Colombia"
+   },
+   "Continent": "South America",
+   "Population": 50936262,
+   "TotalCases": 357710,
+   "TotalDeaths": 11939,
+   "TotalRecovered": 192355,
+   "ActiveCases": 153416
+},
+ {
+   "Country": {
+      "Region": "Spain"
+   },
+   "Continent": "Europe",
+   "Population": 46756648,
+   "TotalCases": 354530,
+   "TotalDeaths": 28500,
+   "TotalRecovered": 0,
+   "ActiveCases": 0
+},
+ {
+   "Country": {
+      "Region": "Iran"
+   },
+   "Continent": "Asia",
+   "Population": 84097623,
+   "TotalCases": 320117,
+   "TotalDeaths": 17976,
+   "TotalRecovered": 277463,
+   "ActiveCases": 24678
+},
+ {
+   "Country": {
+      "Region": "UK"
+   },
+   "Continent": "Europe",
+   "Population": 67922029,
+   "TotalCases": 308134,
+   "TotalDeaths": 46413,
+   "TotalRecovered": 0,
+   "ActiveCases": 0
+},
+ {
+   "Country": {
+      "Region": "Saudi Arabia"
+   },
+   "Continent": "Asia",
+   "Population": 34865919,
+   "TotalCases": 284226,
+   "TotalDeaths": 3055,
+   "TotalRecovered": 247089,
+   "ActiveCases": 34082
+},
+ {
+   "Country": {
+      "Region": "Pakistan"
+   },
+   "Continent": "Asia",
+   "Population": 221295851,
+   "TotalCases": 281863,
+   "TotalDeaths": 6035,
+   "TotalRecovered": 256058,
+   "ActiveCases": 19770
+},
+ {
+   "Country": {
+      "Region": "Bangladesh"
+   },
+   "Continent": "Asia",
+   "Population": 164851401,
+   "TotalCases": 249651,
+   "TotalDeaths": 3306,
+   "TotalRecovered": 143824,
+   "ActiveCases": 102521
+},
+ {
+   "Country": {
+      "Region": "Italy"
+   },
+   "Continent": "Europe",
+   "Population": 60452568,
+   "TotalCases": 249204,
+   "TotalDeaths": 35187,
+   "TotalRecovered": 201323,
+   "ActiveCases": 12694
+},
+ {
+   "Country": {
+      "Region": "Turkey"
+   },
+   "Continent": "Asia",
+   "Population": 84428331,
+   "TotalCases": 237265,
+   "TotalDeaths": 5798,
+   "TotalRecovered": 220546,
+   "ActiveCases": 10921
+},
+ {
+   "Country": {
+      "Region": "Argentina"
+   },
+   "Continent": "South America",
+   "Population": 45236884,
+   "TotalCases": 228195,
+   "TotalDeaths": 4251,
+   "TotalRecovered": 99852,
+   "ActiveCases": 124092
+},
+ {
+   "Country": {
+      "Region": "Germany"
+   },
+   "Continent": "Europe",
+   "Population": 83811260,
+   "TotalCases": 215210,
+   "TotalDeaths": 9252,
+   "TotalRecovered": 196200,
+   "ActiveCases": 9758
+},
+ {
+   "Country": {
+      "Region": "France"
+   },
+   "Continent": "Europe",
+   "Population": 65288306,
+   "TotalCases": 195633,
+   "TotalDeaths": 30312,
+   "TotalRecovered": 82460,
+   "ActiveCases": 82861
+},
+ {
+   "Country": {
+      "Region": "Iraq"
+   },
+   "Continent": "Asia",
+   "Population": 40306025,
+   "TotalCases": 140603,
+   "TotalDeaths": 5161,
+   "TotalRecovered": 101025,
+   "ActiveCases": 34417
+},
+ {
+   "Country": {
+      "Region": "Philippines"
+   },
+   "Continent": "Asia",
+   "Population": 109722719,
+   "TotalCases": 119460,
+   "TotalDeaths": 2150,
+   "TotalRecovered": 66837,
+   "ActiveCases": 50473
+},
+ {
+   "Country": {
+      "Region": "Indonesia"
+   },
+   "Continent": "Asia",
+   "Population": 273808365,
+   "TotalCases": 118753,
+   "TotalDeaths": 5521,
+   "TotalRecovered": 75645,
+   "ActiveCases": 37587
+},
+ {
+   "Country": {
+      "Region": "Canada"
+   },
+   "Continent": "North America",
+   "Population": 37775022,
+   "TotalCases": 118561,
+   "TotalDeaths": 8966,
+   "TotalRecovered": 103106,
+   "ActiveCases": 6489
+},
+ {
+   "Country": {
+      "Region": "Qatar"
+   },
+   "Continent": "Asia",
+   "Population": 2807805,
+   "TotalCases": 112092,
+   "TotalDeaths": 178,
+   "TotalRecovered": 108831,
+   "ActiveCases": 3083
+},
+ {
+   "Country": {
+      "Region": "Kazakhstan"
+   },
+   "Continent": "Asia",
+   "Population": 18798667,
+   "TotalCases": 95942,
+   "TotalDeaths": 1058,
+   "TotalRecovered": 68871,
+   "ActiveCases": 26013
+},
+ {
+   "Country": {
+      "Region": "Egypt"
+   },
+   "Continent": "Africa",
+   "Population": 102516525,
+   "TotalCases": 95006,
+   "TotalDeaths": 4951,
+   "TotalRecovered": 48898,
+   "ActiveCases": 41157
+},
+ {
+   "Country": {
+      "Region": "Ecuador"
+   },
+   "Continent": "South America",
+   "Population": 17668824,
+   "TotalCases": 90537,
+   "TotalDeaths": 5877,
+   "TotalRecovered": 71318,
+   "ActiveCases": 13342
+},
+ {
+   "Country": {
+      "Region": "Bolivia"
+   },
+   "Continent": "South America",
+   "Population": 11688459,
+   "TotalCases": 86423,
+   "TotalDeaths": 3465,
+   "TotalRecovered": 27373,
+   "ActiveCases": 55585
+},
+ {
+   "Country": {
+      "Region": "Sweden"
+   },
+   "Continent": "Europe",
+   "Population": 10105596,
+   "TotalCases": 81967,
+   "TotalDeaths": 5766,
+   "TotalRecovered": 0,
+   "ActiveCases": 0
+},
+ {
+   "Country": {
+      "Region": "Oman"
+   },
+   "Continent": "Asia",
+   "Population": 5118446,
+   "TotalCases": 80713,
+   "TotalDeaths": 492,
+   "TotalRecovered": 70910,
+   "ActiveCases": 9311
+},
+ {
+   "Country": {
+      "Region": "Israel"
+   },
+   "Continent": "Asia",
+   "Population": 9197590,
+   "TotalCases": 79559,
+   "TotalDeaths": 576,
+   "TotalRecovered": 53427,
+   "ActiveCases": 25556
+},
+ {
+   "Country": {
+      "Region": "Ukraine"
+   },
+   "Continent": "Europe",
+   "Population": 43705858,
+   "TotalCases": 76808,
+   "TotalDeaths": 1819,
+   "TotalRecovered": 42524,
+   "ActiveCases": 32465
+},
+ {
+   "Country": {
+      "Region": "Dominican Republic"
+   },
+   "Continent": "North America",
+   "Population": 10858648,
+   "TotalCases": 76536,
+   "TotalDeaths": 1246,
+   "TotalRecovered": 40539,
+   "ActiveCases": 34751
+},
+ {
+   "Country": {
+      "Region": "Panama"
+   },
+   "Continent": "North America",
+   "Population": 4321282,
+   "TotalCases": 71418,
+   "TotalDeaths": 1574,
+   "TotalRecovered": 45658,
+   "ActiveCases": 24186
+},
+ {
+   "Country": {
+      "Region": "Belgium"
+   },
+   "Continent": "Europe",
+   "Population": 11594739,
+   "TotalCases": 71158,
+   "TotalDeaths": 9859,
+   "TotalRecovered": 17661,
+   "ActiveCases": 43638
+},
+ {
+   "Country": {
+      "Region": "Kuwait"
+   },
+   "Continent": "Asia",
+   "Population": 4276658,
+   "TotalCases": 70045,
+   "TotalDeaths": 469,
+   "TotalRecovered": 61610,
+   "ActiveCases": 7966
+},
+ {
+   "Country": {
+      "Region": "Belarus"
+   },
+   "Continent": "Europe",
+   "Population": 9449001,
+   "TotalCases": 68503,
+   "TotalDeaths": 580,
+   "TotalRecovered": 63756,
+   "ActiveCases": 4167
+},
+ {
+   "Country": {
+      "Region": "UAE"
+   },
+   "Continent": "Asia",
+   "Population": 9902079,
+   "TotalCases": 61845,
+   "TotalDeaths": 354,
+   "TotalRecovered": 55739,
+   "ActiveCases": 5752
+},
+ {
+   "Country": {
+      "Region": "Romania"
+   },
+   "Continent": "Europe",
+   "Population": 19224023,
+   "TotalCases": 57895,
+   "TotalDeaths": 2566,
+   "TotalRecovered": 28992,
+   "ActiveCases": 26337
+},
+ {
+   "Country": {
+      "Region": "Netherlands"
+   },
+   "Continent": "Europe",
+   "Population": 17138756,
+   "TotalCases": 56982,
+   "TotalDeaths": 6153,
+   "TotalRecovered": 0,
+   "ActiveCases": 0
+},
+ {
+   "Country": {
+      "Region": "Singapore"
+   },
+   "Continent": "Asia",
+   "Population": 5854932,
+   "TotalCases": 54555,
+   "TotalDeaths": 27,
+   "TotalRecovered": 48031,
+   "ActiveCases": 6497
+},
+ {
+   "Country": {
+      "Region": "Guatemala"
+   },
+   "Continent": "North America",
+   "Population": 17946899,
+   "TotalCases": 54339,
+   "TotalDeaths": 2119,
+   "TotalRecovered": 42070,
+   "ActiveCases": 10150
+},
+ {
+   "Country": {
+      "Region": "Portugal"
+   },
+   "Continent": "Europe",
+   "Population": 10193593,
+   "TotalCases": 52061,
+   "TotalDeaths": 1743,
+   "TotalRecovered": 37840,
+   "ActiveCases": 12478
+},
+ {
+   "Country": {
+      "Region": "Poland"
+   },
+   "Continent": "Europe",
+   "Population": 37842302,
+   "TotalCases": 49515,
+   "TotalDeaths": 1774,
+   "TotalRecovered": 35642,
+   "ActiveCases": 12099
+},
+ {
+   "Country": {
+      "Region": "Nigeria"
+   },
+   "Continent": "Africa",
+   "Population": 206606300,
+   "TotalCases": 45244,
+   "TotalDeaths": 930,
+   "TotalRecovered": 32430,
+   "ActiveCases": 11884
+},
+ {
+   "Country": {
+      "Region": "Honduras"
+   },
+   "Continent": "North America",
+   "Population": 9919704,
+   "TotalCases": 45098,
+   "TotalDeaths": 1423,
+   "TotalRecovered": 6116,
+   "ActiveCases": 37559
+},
+ {
+   "Country": {
+      "Region": "Bahrain"
+   },
+   "Continent": "Asia",
+   "Population": 1706669,
+   "TotalCases": 42889,
+   "TotalDeaths": 156,
+   "TotalRecovered": 39945,
+   "ActiveCases": 2788
+},
+ {
+   "Country": {
+      "Region": "Japan"
+   },
+   "Continent": "Asia",
+   "Population": 126435859,
+   "TotalCases": 42263,
+   "TotalDeaths": 1026,
+   "TotalRecovered": 28877,
+   "ActiveCases": 12360
+},
+ {
+   "Country": {
+      "Region": "Armenia"
+   },
+   "Continent": "Asia",
+   "Population": 2963811,
+   "TotalCases": 39819,
+   "TotalDeaths": 772,
+   "TotalRecovered": 31556,
+   "ActiveCases": 7491
+},
+ {
+   "Country": {
+      "Region": "Ghana"
+   },
+   "Continent": "Africa",
+   "Population": 31133483,
+   "TotalCases": 39642,
+   "TotalDeaths": 199,
+   "TotalRecovered": 36384,
+   "ActiveCases": 3059
+},
+ {
+   "Country": {
+      "Region": "Kyrgyzstan"
+   },
+   "Continent": "Asia",
+   "Population": 6534479,
+   "TotalCases": 38659,
+   "TotalDeaths": 1447,
+   "TotalRecovered": 30099,
+   "ActiveCases": 7113
+},
+ {
+   "Country": {
+      "Region": "Afghanistan"
+   },
+   "Continent": "Asia",
+   "Population": 39009447,
+   "TotalCases": 36896,
+   "TotalDeaths": 1298,
+   "TotalRecovered": 25840,
+   "ActiveCases": 9758
+},
+ {
+   "Country": {
+      "Region": "Switzerland"
+   },
+   "Continent": "Europe",
+   "Population": 8660952,
+   "TotalCases": 36108,
+   "TotalDeaths": 1985,
+   "TotalRecovered": 31600,
+   "ActiveCases": 2523
+},
+ {
+   "Country": {
+      "Region": "Algeria"
+   },
+   "Continent": "Africa",
+   "Population": 43926079,
+   "TotalCases": 33626,
+   "TotalDeaths": 1273,
+   "TotalRecovered": 23238,
+   "ActiveCases": 9115
+},
+ {
+   "Country": {
+      "Region": "Azerbaijan"
+   },
+   "Continent": "Asia",
+   "Population": 10148243,
+   "TotalCases": 33247,
+   "TotalDeaths": 479,
+   "TotalRecovered": 29275,
+   "ActiveCases": 3493
+},
+ {
+   "Country": {
+      "Region": "Morocco"
+   },
+   "Continent": "Africa",
+   "Population": 36953359,
+   "TotalCases": 29644,
+   "TotalDeaths": 449,
+   "TotalRecovered": 20553,
+   "ActiveCases": 8642
+},
+ {
+   "Country": {
+      "Region": "Uzbekistan"
+   },
+   "Continent": "Asia",
+   "Population": 33516027,
+   "TotalCases": 28315,
+   "TotalDeaths": 175,
+   "TotalRecovered": 19291,
+   "ActiveCases": 8849
+},
+ {
+   "Country": {
+      "Region": "Serbia"
+   },
+   "Continent": "Europe",
+   "Population": 8733665,
+   "TotalCases": 27332,
+   "TotalDeaths": 621,
+   "TotalRecovered": 14047,
+   "ActiveCases": 12664
+},
+ {
+   "Country": {
+      "Region": "Moldova"
+   },
+   "Continent": "Europe",
+   "Population": 4032983,
+   "TotalCases": 26628,
+   "TotalDeaths": 828,
+   "TotalRecovered": 18676,
+   "ActiveCases": 7124
+},
+ {
+   "Country": {
+      "Region": "Ireland"
+   },
+   "Continent": "Europe",
+   "Population": 4943200,
+   "TotalCases": 26372,
+   "TotalDeaths": 1768,
+   "TotalRecovered": 23364,
+   "ActiveCases": 1240
+},
+ {
+   "Country": {
+      "Region": "Kenya"
+   },
+   "Continent": "Africa",
+   "Population": 53881160,
+   "TotalCases": 24411,
+   "TotalDeaths": 399,
+   "TotalRecovered": 10444,
+   "ActiveCases": 13568
+},
+ {
+   "Country": {
+      "Region": "Venezuela"
+   },
+   "Continent": "South America",
+   "Population": 28427499,
+   "TotalCases": 22299,
+   "TotalDeaths": 195,
+   "TotalRecovered": 12146,
+   "ActiveCases": 9958
+},
+ {
+   "Country": {
+      "Region": "Nepal"
+   },
+   "Continent": "Asia",
+   "Population": 29186486,
+   "TotalCases": 21750,
+   "TotalDeaths": 65,
+   "TotalRecovered": 15389,
+   "ActiveCases": 6296
+},
+ {
+   "Country": {
+      "Region": "Austria"
+   },
+   "Continent": "Europe",
+   "Population": 9011577,
+   "TotalCases": 21696,
+   "TotalDeaths": 719,
+   "TotalRecovered": 19596,
+   "ActiveCases": 1381
+},
+ {
+   "Country": {
+      "Region": "Costa Rica"
+   },
+   "Continent": "North America",
+   "Population": 5098730,
+   "TotalCases": 21070,
+   "TotalDeaths": 200,
+   "TotalRecovered": 7038,
+   "ActiveCases": 13832
+},
+ {
+   "Country": {
+      "Region": "Ethiopia"
+   },
+   "Continent": "Africa",
+   "Population": 115223736,
+   "TotalCases": 20900,
+   "TotalDeaths": 365,
+   "TotalRecovered": 9027,
+   "ActiveCases": 11508
+},
+ {
+   "Country": {
+      "Region": "Australia"
+   },
+   "Continent": "Australia/Oceania",
+   "Population": 25528864,
+   "TotalCases": 19890,
+   "TotalDeaths": 255,
+   "TotalRecovered": 10941,
+   "ActiveCases": 8694
+},
+ {
+   "Country": {
+      "Region": "El Salvador"
+   },
+   "Continent": "North America",
+   "Population": 6489514,
+   "TotalCases": 19126,
+   "TotalDeaths": 513,
+   "TotalRecovered": 9236,
+   "ActiveCases": 9377
+},
+ {
+   "Country": {
+      "Region": "Czechia"
+   },
+   "Continent": "Europe",
+   "Population": 10711019,
+   "TotalCases": 17731,
+   "TotalDeaths": 390,
+   "TotalRecovered": 12320,
+   "ActiveCases": 5021
+},
+ {
+   "Country": {
+      "Region": "Cameroon"
+   },
+   "Continent": "Africa",
+   "Population": 26606188,
+   "TotalCases": 17718,
+   "TotalDeaths": 391,
+   "TotalRecovered": 15320,
+   "ActiveCases": 2007
+},
+ {
+   "Country": {
+      "Region": "Ivory Coast"
+   },
+   "Continent": "Africa",
+   "Population": 26437950,
+   "TotalCases": 16447,
+   "TotalDeaths": 103,
+   "TotalRecovered": 12484,
+   "ActiveCases": 3860
+},
+ {
+   "Country": {
+      "Region": "S. Korea"
+   },
+   "Continent": "Asia",
+   "Population": 51273732,
+   "TotalCases": 14519,
+   "TotalDeaths": 303,
+   "TotalRecovered": 13543,
+   "ActiveCases": 673
+},
+ {
+   "Country": {
+      "Region": "Denmark"
+   },
+   "Continent": "Europe",
+   "Population": 5794279,
+   "TotalCases": 14306,
+   "TotalDeaths": 617,
+   "TotalRecovered": 12787,
+   "ActiveCases": 902
+},
+ {
+   "Country": {
+      "Region": "Palestine"
+   },
+   "Continent": "Asia",
+   "Population": 5112340,
+   "TotalCases": 13398,
+   "TotalDeaths": 92,
+   "TotalRecovered": 6907,
+   "ActiveCases": 6399
+},
+ {
+   "Country": {
+      "Region": "Bosnia and Herzegovina"
+   },
+   "Continent": "Europe",
+   "Population": 3278650,
+   "TotalCases": 13396,
+   "TotalDeaths": 384,
+   "TotalRecovered": 7042,
+   "ActiveCases": 5970
+},
+ {
+   "Country": {
+      "Region": "Bulgaria"
+   },
+   "Continent": "Europe",
+   "Population": 6942854,
+   "TotalCases": 13014,
+   "TotalDeaths": 435,
+   "TotalRecovered": 7374,
+   "ActiveCases": 5205
+},
+ {
+   "Country": {
+      "Region": "Madagascar"
+   },
+   "Continent": "Africa",
+   "Population": 27755708,
+   "TotalCases": 12526,
+   "TotalDeaths": 134,
+   "TotalRecovered": 10148,
+   "ActiveCases": 2244
+},
+ {
+   "Country": {
+      "Region": "Sudan"
+   },
+   "Continent": "Africa",
+   "Population": 43943536,
+   "TotalCases": 11780,
+   "TotalDeaths": 763,
+   "TotalRecovered": 6194,
+   "ActiveCases": 4823
+},
+ {
+   "Country": {
+      "Region": "North Macedonia"
+   },
+   "Continent": "Europe",
+   "Population": 2083365,
+   "TotalCases": 11399,
+   "TotalDeaths": 517,
+   "TotalRecovered": 7480,
+   "ActiveCases": 3402
+},
+ {
+   "Country": {
+      "Region": "Senegal"
+   },
+   "Continent": "Africa",
+   "Population": 16783877,
+   "TotalCases": 10715,
+   "TotalDeaths": 223,
+   "TotalRecovered": 7101,
+   "ActiveCases": 3391
+},
+ {
+   "Country": {
+      "Region": "Norway"
+   },
+   "Continent": "Europe",
+   "Population": 5425471,
+   "TotalCases": 9468,
+   "TotalDeaths": 256,
+   "TotalRecovered": 8857,
+   "ActiveCases": 355
+},
+ {
+   "Country": {
+      "Region": "DRC"
+   },
+   "Continent": "Africa",
+   "Population": 89802183,
+   "TotalCases": 9309,
+   "TotalDeaths": 215,
+   "TotalRecovered": 8048,
+   "ActiveCases": 1046
+},
+ {
+   "Country": {
+      "Region": "Malaysia"
+   },
+   "Continent": "Asia",
+   "Population": 32406372,
+   "TotalCases": 9038,
+   "TotalDeaths": 125,
+   "TotalRecovered": 8713,
+   "ActiveCases": 200
+},
+ {
+   "Country": {
+      "Region": "French Guiana"
+   },
+   "Continent": "South America",
+   "Population": 299385,
+   "TotalCases": 8127,
+   "TotalDeaths": 47,
+   "TotalRecovered": 7240,
+   "ActiveCases": 840
+},
+ {
+   "Country": {
+      "Region": "Gabon"
+   },
+   "Continent": "Africa",
+   "Population": 2230563,
+   "TotalCases": 7787,
+   "TotalDeaths": 51,
+   "TotalRecovered": 5609,
+   "ActiveCases": 2127
+},
+ {
+   "Country": {
+      "Region": "Tajikistan"
+   },
+   "Continent": "Asia",
+   "Population": 9557468,
+   "TotalCases": 7665,
+   "TotalDeaths": 62,
+   "TotalRecovered": 6443,
+   "ActiveCases": 1160
+},
+ {
+   "Country": {
+      "Region": "Guinea"
+   },
+   "Continent": "Africa",
+   "Population": 13164905,
+   "TotalCases": 7664,
+   "TotalDeaths": 49,
+   "TotalRecovered": 6757,
+   "ActiveCases": 858
+},
+ {
+   "Country": {
+      "Region": "Haiti"
+   },
+   "Continent": "North America",
+   "Population": 11416103,
+   "TotalCases": 7544,
+   "TotalDeaths": 171,
+   "TotalRecovered": 4832,
+   "ActiveCases": 2541
+},
+ {
+   "Country": {
+      "Region": "Finland"
+   },
+   "Continent": "Europe",
+   "Population": 5541604,
+   "TotalCases": 7532,
+   "TotalDeaths": 331,
+   "TotalRecovered": 6980,
+   "ActiveCases": 221
+},
+ {
+   "Country": {
+      "Region": "Zambia"
+   },
+   "Continent": "Africa",
+   "Population": 18430129,
+   "TotalCases": 7164,
+   "TotalDeaths": 199,
+   "TotalRecovered": 5786,
+   "ActiveCases": 1179
+},
+ {
+   "Country": {
+      "Region": "Luxembourg"
+   },
+   "Continent": "Europe",
+   "Population": 626952,
+   "TotalCases": 7073,
+   "TotalDeaths": 119,
+   "TotalRecovered": 5750,
+   "ActiveCases": 1204
+},
+ {
+   "Country": {
+      "Region": "Mauritania"
+   },
+   "Continent": "Africa",
+   "Population": 4660728,
+   "TotalCases": 6444,
+   "TotalDeaths": 157,
+   "TotalRecovered": 5291,
+   "ActiveCases": 996
+},
+ {
+   "Country": {
+      "Region": "Paraguay"
+   },
+   "Continent": "South America",
+   "Population": 7141091,
+   "TotalCases": 6375,
+   "TotalDeaths": 66,
+   "TotalRecovered": 4974,
+   "ActiveCases": 1335
+},
+ {
+   "Country": {
+      "Region": "Albania"
+   },
+   "Continent": "Europe",
+   "Population": 2877470,
+   "TotalCases": 6016,
+   "TotalDeaths": 188,
+   "TotalRecovered": 3155,
+   "ActiveCases": 2673
+},
+ {
+   "Country": {
+      "Region": "Lebanon"
+   },
+   "Continent": "Asia",
+   "Population": 6822220,
+   "TotalCases": 5672,
+   "TotalDeaths": 70,
+   "TotalRecovered": 1974,
+   "ActiveCases": 3628
+},
+ {
+   "Country": {
+      "Region": "Croatia"
+   },
+   "Continent": "Europe",
+   "Population": 4102577,
+   "TotalCases": 5404,
+   "TotalDeaths": 155,
+   "TotalRecovered": 4688,
+   "ActiveCases": 561
+},
+ {
+   "Country": {
+      "Region": "Djibouti"
+   },
+   "Continent": "Africa",
+   "Population": 989387,
+   "TotalCases": 5330,
+   "TotalDeaths": 59,
+   "TotalRecovered": 5057,
+   "ActiveCases": 214
+},
+ {
+   "Country": {
+      "Region": "Greece"
+   },
+   "Continent": "Europe",
+   "Population": 10417673,
+   "TotalCases": 5123,
+   "TotalDeaths": 210,
+   "TotalRecovered": 1374,
+   "ActiveCases": 3539
+}
+]

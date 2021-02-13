@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "77289302741",
+    "firebase_url": "https://examam-d2bf7-default-rtdb.firebaseio.com",
+    "project_id": "examam-d2bf7",
+    "storage_bucket": "examam-d2bf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77289302741:android:f66fed52e2af378a43d05c",
+        "android_client_info": {
+          "package_name": "com.amst.amst_3ep_maroto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77289302741-jiemdjnei182q40vae5k45cms4ht1g7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amst.amst_3ep_maroto",
+            "certificate_hash": "a8f8dc277e5f44f28c8f1f8c49b1a969e56649a5"
+          }
+        },
+        {
+          "client_id": "77289302741-15c2aofhlv7dqn1028d01c0ien6udbh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmLAojJnBpgs_zzDqn_X2iwSX1TN_zTXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77289302741-15c2aofhlv7dqn1028d01c0ien6udbh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
